@@ -1,0 +1,15 @@
+collections
+deep_translator
+emoji
+googleapiclient
+langdetect
+matplotlib
+nltk
+os
+pandas
+re
+seaborn
+textblob
+time
+tqdm
+wordcloud
